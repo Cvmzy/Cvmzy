@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am a 24 year old student that studies Front-End Development at Noroff School of Technology, currently at the second semester.
+Next semester i'm set to learn SCSS, React and more new frameworks.
 
 ## Skills
 
