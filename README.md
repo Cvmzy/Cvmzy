@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a 24 year old student that studies Front-End Development at Noroff School of Technology, currently at the second semester.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- AdobeXD
+- Figma
+
 <!--
 **Cvmzy/Cvmzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
